@@ -22,4 +22,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="default_vertex_shader.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+    <Text Include="default_fragment_shader.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
