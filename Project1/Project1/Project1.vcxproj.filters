@@ -23,11 +23,28 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="default_vertex_shader.txt">
+    <Text Include="default_fragment_shader.glsl">
       <Filter>소스 파일</Filter>
     </Text>
-    <Text Include="default_fragment_shader.txt">
+    <Text Include="default_vertex_shader.glsl">
       <Filter>소스 파일</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stb_image.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="model.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

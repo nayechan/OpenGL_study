@@ -1,5 +1,11 @@
 ﻿  main.cpp
-d:\documents\dev\opengl_study\project1\project1\main.cpp(27): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-d:\documents\dev\opengl_study\project1\project1\main.cpp(56): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-d:\documents\dev\opengl_study\project1\project1\main.cpp(65): warning C4244: '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\shader.h(56): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(99): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(173): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(174): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(178): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(179): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(181): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(182): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\documents\dev\opengl_study\project1\project1\main.cpp(191): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Project1.vcxproj -> D:\Documents\Dev\OpenGL_study\Project1\Debug\Project1.exe
